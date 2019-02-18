@@ -1,0 +1,4 @@
+L/C type	Value(nH/nF)
+Max-Freq	0x182b3150
+Mid-Freq	0x182b3190
+Min-Freq	0x182b3030

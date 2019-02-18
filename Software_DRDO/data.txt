@@ -1,0 +1,5 @@
+Max-Freq	12
+Mid-Freq	9
+Min-Freq	8
+L/C type	Value(nH/nF)
+C-series	0.001
