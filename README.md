@@ -3,7 +3,7 @@
 ![Start-up Screen](/splash.png)
 
 * The software can be used to define input/output matching topologies for designing amplifiers.
-* It can also be used for ABCD parameters analysis to obtain total ABCD parameters of a given topo-logy.This enables the user to obtain input/output impedance levels for a given topology which helpsthe user in matching circuits.
+* It can also be used for ABCD parameters analysis to obtain total ABCD parameters of a given topology.This enables the user to obtain input/output impedance levels for a given topology which helpsthe user in matching circuits.
 
 **Dependencies:** Qt framework, C++. 
 
