@@ -1,0 +1,4 @@
+L/C type	Value(nH/nF)
+L-Series	15
+C-Shunt	0.002
+C-Series	10
